@@ -32,8 +32,8 @@ This is part of a C# Windows Forms application that runs the compiled test suite
 - Real-time status updates
 - Output filtering and exception handling
 
-📂 [View Form1.cs](https://github.com/ZachC121/ZachC121.github.io/blob/main/WindowsFormsApp1/WindowsFormsApp1/Form1.cs)  
-📂 [View Form1.Designer.cs](https://github.com/ZachC121/ZachC121.github.io/blob/main/WindowsFormsApp1/WindowsFormsApp1/Form1.Designer.cs)
+📂 [View Form1.cs](https://github.com/ZachC121/ZachC121.github.io/blob/main/TestRunnerSuite/TestRunnerUI/Form1.cs)  
+📂 [View Form1.Designer.cs](https://github.com/ZachC121/ZachC121.github.io/blob/main/TestRunnerSuite/TestRunnerUI/Form1.Designer.cs)
 
 ---
 
