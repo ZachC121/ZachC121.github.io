@@ -1,61 +1,40 @@
-# ZachC121.github.io
+# 🗂️ Zach Chantara’s Software Development Portfolio
 
-#I.	Self-Introduction: Address all of the following questions to introduce yourself.
+Welcome to my ePortfolio repository. This project showcases my ability to develop secure, testable, and user-friendly software solutions using C++ and C#.
 
-#A.	How long have you been in the Computer Science program?
-[I’ve been in the Computer Science program for 4 years]
+## 🔗 View My Portfolio Website
 
-Welcome to my software development portfolio. This repository showcases two key artifacts demonstrating my ability to write secure, testable code and build intuitive user interfaces.
-
-## 📌 Artifact 1: `collection_tests.cpp`
-
-**Description**:  
-A C++ Google Test suite that validates the behavior of a dynamic `std::vector<int>`. The tests cover adding values, resizing behavior, and error handling.
-
-**Why This Was Selected**:
-- Demonstrates my skills in **test-driven development**
-- Includes **parameterized tests**, reusable fixtures, and intentional failure handling
-- Reflects a structured approach to secure, maintainable code
-
-📂 [View the code](https://github.com/ZachC121/ZachC121.github.io/blob/main/TestRunnerSuite/collection_tests.cpp)
+👉 [Click here to view the live site](https://zachc121.github.io)
 
 ---
 
-## 📌 Artifact 2: `TestRunnerUI` (C# WinForms App)
+## 📁 Artifacts
 
-**Description**:  
-A GUI tool developed in C# using Windows Forms that executes and displays results from test executables, like the one above. It includes filters, status labels, and error handling.
+### 🧪 Artifact 1: `collection_tests.cpp`
 
-**Why This Was Selected**:
-- Demonstrates my **UI/UX design skills**
-- Shows how I connect backend testing logic to user-facing functionality
-- Enhanced with **live status updates**, **dropdown filtering**, and **formatted output**
+A Google Test suite written in C++ that validates how a `std::vector<int>` behaves under different scenarios like resizing and error handling.
 
-📂 [View Form1.cs](https://github.com/ZachC121/ZachC121.github.io/blob/main/WindowsFormsApp1/Form1.cs)
+📂 [View collection_tests.cpp](https://github.com/ZachC121/ZachC121.github.io/blob/main/TestRunnerSuite/collection_tests.cpp)
+
+---
+
+### 🖥️ Artifact 2: `Form1.cs` - TestRunnerUI
+
+A Windows Forms application in C# that runs test executables and presents results in a clear, interactive way.
+
+📂 [View Form1.cs](https://github.com/ZachC121/ZachC121.github.io/blob/main/WindowsFormsApp1/Form1.cs)  
 📂 [View Form1.Designer.cs](https://github.com/ZachC121/ZachC121.github.io/blob/main/WindowsFormsApp1/Form1.Designer.cs)
 
 ---
 
-## 🎯 Course Outcomes Met
+## 📚 Course Outcomes Addressed
 
-- **Outcome 2**: Communicated technical information clearly through formatted UI and readable test output  
-- **Outcome 3**: Designed and evaluated solutions across backend (C++) and frontend (C#) layers  
-- **Outcome 4**: Applied established tools like Google Test and Windows Forms to build a working, complete solution  
-- **Outcome 5**: Incorporated error handling and secure coding practices throughout
----
-
-## 💡 Reflection
-
-During this project, I learned:
-- How to break down logic into **testable units**
-- To **handle edge cases** and structure tests for reuse
-- To make interfaces **intuitive** and not overwhelm the user
-
-**Challenges**:
-- Making test output clear for non-technical users
-- Displaying real-time status updates without clutter
-
-These artifacts reflect my growth in building both functional and user-friendly solutions.
+- Designed and evaluated secure backend testing logic
+- Built front-end interfaces for interpreting test results
+- Practiced communicating technical details through UI/UX
+- Applied secure coding and error handling
 
 ---
+
+Feel free to explore the project and visit the GitHub Pages site above to see more details!
 
