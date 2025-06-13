@@ -17,7 +17,7 @@ A C++ Google Test suite that validates the behavior of a dynamic `std::vector<in
 - Includes **parameterized tests**, reusable fixtures, and intentional failure handling
 - Reflects a structured approach to secure, maintainable code
 
-📁 View: [`cpp-tests/collection_tests.cpp`](./cpp-tests/collection_tests.cpp)
+📂 [View the code](https://github.com/ZachC121/ZachC121.github.io/blob/main/TestRunnerSuite/collection_tests.cpp)
 
 ---
 
@@ -31,7 +31,8 @@ A GUI tool developed in C# using Windows Forms that executes and displays result
 - Shows how I connect backend testing logic to user-facing functionality
 - Enhanced with **live status updates**, **dropdown filtering**, and **formatted output**
 
-📁 View Files: [`TestRunnerUI/`](./TestRunnerUI/)
+📂 [View Form1.cs](https://github.com/ZachC121/ZachC121.github.io/blob/main/WindowsFormsApp1/Form1.cs)
+📂 [View Form1.Designer.cs](https://github.com/ZachC121/ZachC121.github.io/blob/main/WindowsFormsApp1/Form1.Designer.cs)
 
 ---
 
