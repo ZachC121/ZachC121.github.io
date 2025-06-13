@@ -26,7 +26,7 @@ It includes unit tests for adding, resizing, and error handling.
 - Parameterized and fixture-based testing
 
 
-📂 [View the code](./TestRunnerSuite/collection_tests.cpp)
+📂 [View the code](https://github.com/ZachC121/ZachC121.github.io/blob/main/TestRunnerSuite/collection_tests.cpp)
 
 
 ---
@@ -44,10 +44,10 @@ This is part of a Windows Forms C# application that runs test executables like t
 - Exception handling and filtering test results
 
 
-📂 [View Form1.cs](./WindowsFormsApp1/Form1.cs)
+📂 [View Form1.cs](https://github.com/ZachC121/ZachC121.github.io/blob/main/WindowsFormsApp1/Form1.cs)
 
 
-📂 [View Form1.Designer.cs](./WindowsFormsApp1/Form1.Designer.cs)
+📂 [View Form1.Designer.cs](https://github.com/ZachC121/ZachC121.github.io/blob/main/WindowsFormsApp1/Form1.Designer.cs)
 
 
 
