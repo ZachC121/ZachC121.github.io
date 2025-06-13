@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Zach Chantara's Software Portfolio
 ---
 
