@@ -14,7 +14,7 @@ Welcome to my ePortfolio repository. This project showcases my ability to develo
 
 A Google Test suite written in C++ that validates how a `std::vector<int>` behaves under different scenarios like resizing and error handling.
 
-📂 [View collection_tests.cpp](https://github.com/ZachC121/ZachC121.github.io/blob/main/TestRunnerSuite/collection_tests.cpp)
+📂 [View test.cpp](https://github.com/ZachC121/ZachC121.github.io/blob/main/TestRunnerSuite/TestRunnerSuite/test.cpp)
 
 ---
 
