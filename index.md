@@ -1,59 +1,53 @@
 ---
 layout: default
-title: Zach Chantara – ePortfolio
+title: Zach Chantara's Software Portfolio
 ---
 
 
-# Welcome to My Secure Coding ePortfolio
+# Zach Chantara's Software Portfolio
 
-This page highlights two artifacts that demonstrate my full-stack skills in secure software development:
 
----
+Welcome to my ePortfolio! Below are some of the projects I’ve worked on.
 
-## 🔹 Artifact 1: `collection_tests.cpp`  
-**Language:** C++  
-**Purpose:** A Google Test suite to evaluate dynamic behavior of `std::vector<int>`  
-[🔗 View file](./cpp-tests/collection_tests.cpp)
-
-### Why It Matters:
-- Demonstrates test-driven development using Google Test
-- Covers resizing, error handling, and parameterized tests
-- Shows thoughtful test structure and reusable fixtures
 
 ---
 
-## 🔹 Artifact 2: `Form1.cs` + `Form1.Designer.cs`  
-**Language:** C# (Windows Forms App)  
-**Purpose:** A GUI that lets users run C++ test executables and view output  
-[🔗 View directory](./TestRunnerUI/)
 
-### Key Features:
-- UI filters results by pass/fail
-- Live test status updates
-- Graceful exception handling
-- Clear, readable test output
+## 🧪 Artifact 1: `collection_tests.cpp`
 
----
 
-## 📌 Why These Artifacts?
-These two pieces show how I integrate testing with usability.  
-They represent a complete solution — backend testing + frontend UI — and align with course outcomes like:
+This is a Google Test suite written in C++ that tests the behavior of a dynamic `std::vector<int>`.  
+It includes unit tests for adding, resizing, and error handling.
 
-- **CO3:** Designing functional and user-friendly tools  
-- **CO4:** Using appropriate tools (Google Test, Windows Forms)  
-- **CO2 & CO5:** Communicating results clearly and writing secure code
+
+✅ **Skills demonstrated**:
+- Test-driven development
+- Google Test framework
+- Parameterized and fixture-based testing
+
+
+📂 [View the code](./TestRunnerSuite/collection_tests.cpp)
+
 
 ---
 
-## 🔄 Reflection
-> “I learned to write reusable test code and present output clearly to users who may not be technical. This project helped me bridge backend logic with user experience.”
 
----
+## 🖥️ Artifact 2: `Form1.cs` - TestRunnerUI
 
-## 📁 Browse the Code
-You can explore the code via the GitHub repo:  
-[📂 ZachC121.github.io Repository](https://github.com/ZachC121/ZachC121.github.io)
 
+This is part of a Windows Forms C# application that runs test executables like the one above and displays results in a user-friendly interface.
+
+
+✅ **Skills demonstrated**:
+- UI/UX with Windows Forms
+- Real-time status updates
+- Exception handling and filtering test results
+
+
+📂 [View Form1.cs](./WindowsFormsApp1/Form1.cs)
+
+
+📂 [View Form1.Designer.cs](./WindowsFormsApp1/Form1.Designer.cs)
 
 
 
