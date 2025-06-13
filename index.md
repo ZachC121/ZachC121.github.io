@@ -33,7 +33,7 @@ This is part of a C# Windows Forms application that runs the compiled test suite
 - Output filtering and exception handling
 
 📂 [View Form1.cs](https://github.com/ZachC121/ZachC121.github.io/blob/main/WindowsFormsApp1/WindowsFormsApp1/Form1.cs)  
-📂 [View Form1.Designer.cs](https://github.com/ZachC121/ZachC121.github.io/blob/main/WindowsFormsApp1/Form1.Designer.cs)
+📂 [View Form1.Designer.cs](https://github.com/ZachC121/ZachC121.github.io/blob/main/WindowsFormsApp1/WindowsFormsApp1/Form1.Designer.cs)
 
 ---
 
