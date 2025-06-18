@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  test.cpp
+C:\Users\zchan\OneDrive\Desktop\CS499\Google_Test\TestRunnerSuite\TestRunnerSuite\test.cpp(165,5): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file '/test.cpp')
+  
+C:\Users\zchan\OneDrive\Desktop\CS499\Google_Test\TestRunnerSuite\TestRunnerSuite\test.cpp(170,5): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file '/test.cpp')
+  
+  TestRunnerSuite.vcxproj -> C:\Users\zchan\OneDrive\Desktop\CS499\Google_Test\TestRunnerSuite\x64\Debug\TestRunnerSuite.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
