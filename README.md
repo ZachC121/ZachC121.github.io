@@ -45,7 +45,7 @@ Includes unit tests for adding values, resizing, and handling errors using fixtu
 
 ---
 
-## 🖥Artifact 1 (Part 2): `Form1.cs` - TestRunnerUI
+## Artifact 1 (Part 2): `Form1.cs` - TestRunnerUI
 
 Part of a C# Windows Forms application that runs the above test suite and displays results in a UI.
 
@@ -77,7 +77,7 @@ Part of a C# Windows Forms application that runs the above test suite and displa
 - Using test fixtures and parameterized tests for edge cases
 - Creating intuitive interfaces
 
-### ⚠Challenges Faced
+### Challenges Faced
 
 - Presenting technical test output clearly
 - Balancing real-time updates without UI clutter
