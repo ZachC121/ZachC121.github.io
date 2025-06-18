@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "545219095776",
+    "firebase_url": "https://zachinventoryoneapp-default-rtdb.firebaseio.com",
+    "project_id": "zachinventoryoneapp",
+    "storage_bucket": "zachinventoryoneapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545219095776:android:29a5aefd99dfa735db3485",
+        "android_client_info": {
+          "package_name": "com.example.zachinventoryoneapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0e6tTKVKhvBqVk-YOyKlftjP6TZyHyWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

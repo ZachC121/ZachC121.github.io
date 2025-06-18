@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/abstractbackgound">
+
+    <!-- Title: SMS Notification Permission -->
+    <TextView
+        android:id="@+id/permissionTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SMS Notification Permission"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Description -->
+    <TextView
+        android:id="@+id/permissionDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This app needs permission to send SMS notifications when inventory is low."
+        android:layout_marginBottom="24dp"/>
+
+    <!-- Feedback TextView for Permission Status -->
+    <TextView
+        android:id="@+id/permissionStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:textSize="16sp"/>
+
+    <!-- Toggle Switch for SMS Notifications -->
+    <Switch
+        android:id="@+id/smsNotificationToggle"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:text="Enable SMS Notifications"
+        android:layout_marginBottom="24dp"/>
+
+    <!-- Section for Inventory Alerts -->
+    <TextView
+        android:id="@+id/alertTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Inventory Alerts"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/alertMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="No alerts at this time."
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="16sp"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Placeholder for Low Stock Indicator -->
+    <TextView
+        android:id="@+id/lowStockIndicator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_red_light"
+        android:text="Low Stock Alert! Item quantity is zero."
+        android:textColor="@android:color/white"
+        android:textSize="16sp"
+        android:visibility="gone" /> <!-- Initially hidden -->
+
+</LinearLayout>
