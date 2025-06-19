@@ -36,10 +36,9 @@ Overall, this portfolio illustrates how I apply computer science theory to real-
 This is a Google Test suite written in C++ that tests the behavior of a dynamic std::vector<int>.
 It includes unit tests for adding values, resizing, and handling errors using fixtures and parameterized testing.
 
-[  <p>📂 <a href="https://github.com/ZachC121/ZachC121.github.io/blob/main/Word%20doc%20Summary/Enhancement%20One_Software%20Design%20and%20Engineering%20Summary.docx">View summary word doc.</a></p>](https://github.com/ZachC121/ZachC121.github.io/blob/main/Word%20doc%20Summary/Enhancement%20One_Software%20Design%20and%20Engineering%20Summary.docx)
-  <p>📂 <a href="https://github.com/ZachC121/GoogleTest" target="_blank">View initial version</a></p>[
-](https://github.com/ZachC121/GoogleTest)  <p>📂 <a href="https://github.com/ZachC121/ZachC121.github.io/blob/main/TestRunnerSuite/TestRunnerSuite/test.cpp">View test.cpp</a></p>
-
+  <p>📂 <a href="https://github.com/ZachC121/ZachC121.github.io/blob/main/Word%20doc%20Summary/Enhancement%20One_Software%20Design%20and%20Engineering%20Summary.docx">View summary word doc.</a></p>
+  <p>📂 <a href="https://github.com/ZachC121/GoogleTest" target="_blank">View initial version</a></p>
+  <p>📂 <a href="https://github.com/ZachC121/ZachC121.github.io/blob/main/TestRunnerSuite/TestRunnerSuite/test.cpp">View test.cpp</a></p>
 
 ### Skills Demonstrated
 
@@ -97,8 +96,9 @@ This artifact is a Course Planner application that was developed during my CS260
 
 I selected this artifact for my ePortfolio because it showcases my ability to take an existing, functional system and significantly enhance it using advanced data structures and algorithmic logic. It represents a clear step in my growth from applying basic programming concepts to building more scalable and modular solutions. These enhancements transformed the project from a simple data retrieval system into a more intelligent, dynamic course planning tool. The DAG, in particular, introduced the ability to view courses in the order they should be taken based on prerequisite structure, a feature that mimics real-world scheduling systems in academic institutions.
 
-[Summary doc](https://github.com/ZachC121/ZachC121.github.io/blob/main/Word%20doc%20Summary/Enhancement%20Two%20summary.docx)  
-[View Project2 Folder](https://github.com/ZachC121/ZachC121.github.io/tree/main/Project2)
+  <p>📂 <a href="https://github.com/ZachC121/ZachC121.github.io/blob/main/Word%20doc%20Summary/Enhancement%20Two%20summary.docx">View summary word doc.</a></p>
+  <p>📂 <a href="https://github.com/ZachC121/data-structures-and-algorithms/blob/main/Source.cpp" target="_blank">View initial version</a>
+  <p>📂 <a href="https://github.com/ZachC121/ZachC121.github.io/tree/main/Project2">View Project2 Folder</a></p>
 
 ### Skills Demonstrated
 
@@ -133,8 +133,9 @@ For my capstone enhancement, I restructured large sections of the application’
 
 I included this artifact in my ePortfolio because it reflects my ability to build full-featured mobile solutions with a user-centered approach while applying software engineering principles like modularity, cloud integration, and clean architecture. This project allowed me to demonstrate both technical competence and thoughtful design by delivering a system that’s both functional and future-proof.
 
-[Summary doc](https://github.com/ZachC121/ZachC121.github.io/blob/main/Word%20doc%20Summary/Enhancement%20Three%20summary.docx)  
-[View App Code](https://github.com/ZachC121/ZachC121.github.io/tree/main/app/src/main/java/com/example/zachinventoryoneapp)
+  <p>📂 <a href="https://github.com/ZachC121/ZachC121.github.io/blob/main/Word%20doc%20Summary/Enhancement%20Three%20summary.docx">View summary word doc.</a></p>
+  <p>📂 <a href="https://github.com/ZachC121/Mobile-Architect-and-Programming/tree/main/InventoryOneApp/app" target="_blank">View initial version</a></p>
+  <p>📂 <a href="https://github.com/ZachC121/ZachC121.github.io/tree/main/app/src/main/java/com/example/zachinventoryoneapp">View WarehouseApp Folder</a></p>
 
 ### Skills Demonstrated
 
