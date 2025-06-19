@@ -24,8 +24,8 @@ Creating a professional portfolio is one of the best ways to visually communicat
 
 To support this portfolio, I have prepared a full code review that explains these enhancements in detail and demonstrates my approach to writing high-quality, secure, and maintainable code.
 
-**[Watch my Code Review Video](https://youtu.be/r2VOA4fiLH8)**  
-**[View summary word doc](https://github.com/ZachC121/ZachC121.github.io/blob/main/Word%20doc%20Summary/Journals/CS%20499%20Module%20One%20Assignment%20Template.docx)**
+    <p>▶️ <a href="https://youtu.be/r2VOA4fiLH8" target="_blank">Watch my Code Review Video</a></p>
+    <p>📂 <a href="https://github.com/ZachC121/ZachC121.github.io/blob/main/Word%20doc%20Summary/Journals/CS%20499%20Module%20One%20Assignment%20Template.docx" target="_blank">View Summary Word Doc</a></p>
 
 Overall, this portfolio illustrates how I apply computer science theory to real-world development scenarios. It reflects my readiness for industry-level work and specialization in software engineering, showcasing both technical skills and the ability to communicate complex concepts clearly and professionally.
 
@@ -56,8 +56,8 @@ I selected this artifact for my ePortfolio because it demonstrates my ability to
 
 Enhancements to the original design included improved exception handling for greater reliability, a cleaner UI layout for better readability, and the addition of filters for test output to make the results easier to navigate. These updates made the application more robust and user-focused. They also reflect my growth in both technical and design-oriented thinking.
 
-[View `Form1.cs`](https://github.com/ZachC121/ZachC121.github.io/blob/main/TestRunnerSuite/TestRunnerUI/Form1.cs)  
-[View `Form1.Designer.cs`](https://github.com/ZachC121/ZachC121.github.io/blob/main/TestRunnerSuite/TestRunnerUI/Form1.Designer.cs)
+    📂 <a href="https://github.com/ZachC121/ZachC121.github.io/blob/main/TestRunnerSuite/TestRunnerUI/Form1.cs">View Form1.cs</a><br>
+    📂 <a href="https://github.com/ZachC121/ZachC121.github.io/blob/main/TestRunnerSuite/TestRunnerUI/Form1.Designer.cs">View Form1.Designer.cs</a>
 
 ### Skills Demonstrated
 
